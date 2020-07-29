@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pure Natural Sleep",
+    "description": "",
+    "home_page_url": "https://timhaynz.github.io/pure-natural-sleep",
+    "feed_url": "https://timhaynz.github.io/pure-natural-sleep/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tim Hay"
+    },
+    "items": [
+        {
+            "id": "https://timhaynz.github.io/pure-natural-sleep/about/",
+            "url": "https://timhaynz.github.io/pure-natural-sleep/about/",
+            "title": "About",
+            "summary": " The building industry is one of the biggest producers of rubbish, including toxic materials like glues, paints stains and primers, treated timbers, insulation materials, carpets and much more. These are not only toxic for the environment, but also for our health. Considering how much&hellip;",
+            "content_html": "\n  <p>\n    The building industry is one of the biggest producers of rubbish, including toxic materials like glues, paints stains and primers, treated timbers, insulation materials, carpets and much more. These are not only toxic for the environment, but also for our health. Considering how much time we spent in our homes, we are breathing in toxic off-gassing or potentially exposing ourselves to toxic materials whenever we do repainting or renovations.&nbsp;\n  </p>\n\n  <p>\n    For those who are having their own homes built, there are many more eco-friendly and healthy choices we can make, which may cost a little more or be harder to source, but in the long run it could save you from serious health problems and you will also be doing your bit for the environment.\n  </p>\n\n  <p>\n    The more people choose with their wallets to invest in more eco-friendly, healthy home building and home improvement products, the more of such products will become available and prices will get more competitive.\n  </p>\n\n  <p>\n    At Healthy Eco House, we will be showing you eco-friendly, healthier products and materials that you can use when it comes to repainting or renovating your home.\n  </p>",
+            "author": {
+                "name": "Tim Hay"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-30T11:31:02+12:00",
+            "date_modified": "2020-07-30T11:31:02+12:00"
+        }
+    ]
+}

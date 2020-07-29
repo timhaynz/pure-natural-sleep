@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Pure Natural Sleep</title>
+    <link href="https://timhaynz.github.io/pure-natural-sleep/feed.xml" rel="self" />
+    <link href="https://timhaynz.github.io/pure-natural-sleep" />
+    <updated>1970-01-01T12:00:00+12:00</updated>
+    <author>
+        <name>Tim Hay</name>
+    </author>
+    <id>https://timhaynz.github.io/pure-natural-sleep</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Tim Hay</name>
+        </author>
+        <link href="https://timhaynz.github.io/pure-natural-sleep/about/"/>
+        <id>https://timhaynz.github.io/pure-natural-sleep/about/</id>
+
+        <updated>2020-07-30T11:31:02+12:00</updated>
+            <summary>
+                <![CDATA[
+                     The building industry is one of the biggest producers of rubbish, including toxic materials like glues, paints stains and primers, treated timbers, insulation materials, carpets and much more. These are not only toxic for the environment, but also for our health. Considering how much&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The building industry is one of the biggest producers of rubbish, including toxic materials like glues, paints stains and primers, treated timbers, insulation materials, carpets and much more. These are not only toxic for the environment, but also for our health. Considering how much time we spent in our homes, we are breathing in toxic off-gassing or potentially exposing ourselves to toxic materials whenever we do repainting or renovations.&nbsp;
+  </p>
+
+  <p>
+    For those who are having their own homes built, there are many more eco-friendly and healthy choices we can make, which may cost a little more or be harder to source, but in the long run it could save you from serious health problems and you will also be doing your bit for the environment.
+  </p>
+
+  <p>
+    The more people choose with their wallets to invest in more eco-friendly, healthy home building and home improvement products, the more of such products will become available and prices will get more competitive.
+  </p>
+
+  <p>
+    At Healthy Eco House, we will be showing you eco-friendly, healthier products and materials that you can use when it comes to repainting or renovating your home.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
